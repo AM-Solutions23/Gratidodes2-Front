@@ -1,0 +1,8 @@
+node_modules/
+.ssh
+.vscode-server
+.npm
+.bash_history
+.wget-hsts
+.viminfo
+.cache
